@@ -1,9 +1,8 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+UniRx-SceneTransitionSystem/[Ll]ibrary/
+UniRx-SceneTransitionSystem/[Tt]emp/
+UniRx-SceneTransitionSystem/[Oo]bj/
+UniRx-SceneTransitionSystem/[Bb]uild/
+UniRx-SceneTransitionSystem/[Bb]uilds/
 
 # Visual Studio cache directory
 .vs/
@@ -33,4 +32,3 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
