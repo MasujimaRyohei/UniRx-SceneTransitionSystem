@@ -9,7 +9,7 @@ Scene transition system for Unity.
 Import to your project after download Joystick.unitypackage from [release](https://github.com/MasujimaRyohei/UniRx-SceneTransitionSystem/releases).
 
 ## Author
-[@Masujima Ryohei](https://www.twitter.com/MasujimaRyohei/)
+[@mr](https://www.twitter.com/MasujimaRyohei/)
 
 ## Copyright
 ■ [MIT License](https://github.com/MasujimaRyohei/UniRx-SceneTransitionSystem/blob/master/LICENSE)
